@@ -1,0 +1,33 @@
+{
+  "name": "ar.js",
+  "version": "1.6.2",
+  "description": "Efficient Augmented Reality for the Web",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kolpa/AR.js.git"
+  },
+  "keywords": [
+    "AR",
+    "VR",
+    "three.js",
+    "augmented reality"
+  ],
+  "author": "kolya.opahle@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kolpa/AR.js/issues"
+  },
+  "homepage": "https://github.com/Kolpa/AR.js#readme",
+  "dependencies": {
+    "jsartoolkit5": "0.0.4",
+    "three": "^0.98.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-google": "^0.11.0"
+  }
+}
